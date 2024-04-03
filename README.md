@@ -11,5 +11,8 @@
 - Finally Created a dashboard using Pivot tables and various analysis
 
   Final Dashboard:
+  
+  ![Coffee shop sales Dashboard](https://github.com/nileshjhalani/Coffee-shop-sales-Analysis_Excel-Dashboard/assets/115102638/9a5b8ea9-c825-4b1b-aa6f-ccbdb310b281)
+
 
 
